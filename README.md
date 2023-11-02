@@ -40,27 +40,29 @@
   }
 </style>
 
+< align="center">
+
+<h1 align="center"><span style="color:white">Hi Everyone 👋, I'm Muhammad Syafiq Paradisam</span></h1>
+<h3 align="center"><span style="color:white">A Fullstack developer from Indonesia</span></h3>
+
+
+<span style="color:white">🌱 I’m currently learning Vuejs, Svelte, golang</span>
+
+<span style="color:white">👨‍💻 All of my projects are available at</span>
+[https://syafiqparadisam.github.io/portofolio](https://syafiqparadisam.github.io/portofolio)
+
+<span style="color:white">💬 Ask me about *React, nodejs, expressjs, html, css,javascript, typescript, reduxtoolkit, mongodb, mysql*</span>
+
+<span style="color:white"> 📫 How to reach me dm me on instagram </span>
+*<https://instagram.com/syafiqparadisam>*
+
+<h3 align="center"><span style="color:white">Connect with me :</span></h3>
+
 <p align="center">
-
-<h1 align="center">Hi Everyone 👋, I'm Muhammad Syafiq Paradisam</h1>
-<h3 align="center">A Fullstack developer from Indonesia</h3>
-
-<span style="color:white" align="center">hai</span>
-#### 🌱 I’m currently learning Vuejs, Svelte, golang
-
-#### 👨‍💻 All of my projects are available at [https://syafiqparadisam.github.io/portofolio](https://syafiqparadisam.github.io/portofolio)
-
-#### 💬 Ask me about *React, nodejs, expressjs, html, css,javascript, typescript, reduxtoolkit, mongodb, mysql*
-
-#### 📫 How to reach me dm me on instagram *<https://instagram.com/syafiqparadisam>*
-
-<h3 align="center">Connect with me :</h3>
-
-<div class="sosmed">
 <a href="https://instagram.com/syafiqparadisam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syafiqparadisam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@fikkzketchee5661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fikkzketchee" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/syafiq-paradisam-b72749258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fikkzketchee" height="30" width="40" /></a>
-</div>
+</p>
 
 <h3 align="center">Languages and Tools :</h3>
 <div align="center" class="tech">
