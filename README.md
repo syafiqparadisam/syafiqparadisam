@@ -2,12 +2,12 @@
 <h3 align="center"><span style="color:white">A Fullstack developer from Indonesia</span></h3>
 <img align="right" src="./ilustrasiprogrammer.jpg" width="200">
 
-<span style="color:white">🌱 I’m currently learning Vuejs, Svelte, golang</span>
+<span style="color:white">🌱 I’m currently learning NextJS,Laravel,Devops</span>
 
 <span style="color:white">👨‍💻 All of my projects are available at</span>
-[https://syafiqparadisam.github.io/portofolio](https://syafiqparadisam.github.io/portofolio)
+[https://syafiqparadisam.netlify.app](https://syafiqparadisam.netlify.app)
 
-<span style="color:white">💬 Ask me about *React, nodejs, expressjs, html, css,javascript, typescript, reduxtoolkit, mongodb, mysql*</span>
+<span style="color:white">💬 Ask me about *React, nodejs, expressjs, html, css,javascript, typescript, reduxtoolkit, mongodb, mysql, golang, monitoring tools</span>
 
 <span style="color:white"> 📫 How to reach me dm me on instagram </span>
 *<https://instagram.com/syafiqparadisam>*
