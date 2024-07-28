@@ -7,7 +7,7 @@ Hello There !!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 </em></h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/FikkzOutfit)
-[![Linkedin](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://id.linkedin.com/in/syafiq-paradisam-b72749258 )
+[![Linkedin](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syafiq-paradisam/)](https://id.linkedin.com/in/syafiq-paradisam-b72749258 )
 ![GitHub followers](https://img.shields.io/github/followers/syafiqparadisam?label=Follower&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://syafiqparadisam.netlify.app)
 
