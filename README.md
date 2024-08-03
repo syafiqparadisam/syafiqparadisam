@@ -131,7 +131,3 @@ Rust                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 03/08/2024 00:51:09 UTC
 <!--END_SECTION:waka-->
-<br>
-
-### Here is my desktop preview, i use ubuntu instead of blackarch
-<img src="wpp.png">
