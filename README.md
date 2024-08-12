@@ -62,15 +62,13 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-77-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-60-blue)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-345.1%20thousand%20baris%20kode-blue)
 
 **🐱 Dataku di GitHub** 
 
 > 📦 81.0 kB Digunakan di GitHub Storage 
- > 
-> 🏆 226 Kontribusi pada 2024
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
@@ -132,5 +130,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2024 00:56:19 UTC
+ Last Updated on 12/08/2024 00:54:11 UTC
 <!--END_SECTION:waka-->
