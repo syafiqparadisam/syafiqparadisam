@@ -25,6 +25,7 @@ type tech struct {
   frontend []string
   backend []string
   devops []string
+  databases []string
   language []string
 }
 
@@ -32,10 +33,8 @@ type Aboutme struct {
   pronouns []string
   shortname string
   age int
-  databases []string
   tech
-  language []string
-  currentfocus []string,
+  currentfocus []string
   funFact: string
 }
 
@@ -48,12 +47,12 @@ func main() {
     tech: &tech{
       frontend: []string{"HTML","CSS","Javascript","ReactJS", "React Native"},
       backend: []string{"NodeJS", "ExpressJS","NestJS","Golang", "Gofiber", "Actixweb"},
-      devops: []string{"Docker","Kubernetes","Nginx","Prometheus", "Jaeger", "Grafana", "Linux"},
+      devops: []string{"Docker", "Kubernetes", "Nginx","Prometheus", "Jaeger", "Grafana", "Linux", "CI / CD"},
       databases: []string{"MySQL", "MongoDB", "Redis", "PostgreSQL", "Elastic search"},
       language: []string{"Javascript / Typescript", "Golang","Rust", "C"}
     },
-    currentFocus: []string{"Backend development","Devops engineer", "Linuxer"},
-    funFact: "I use ubuntu btw, I love install linux, I love bash"
+    currentFocus: []string{"Backend development","DevSecOps engineer", "Linuxer"},
+    funFact: "I use artix btw, I love install linux, I love bash"
   }
 }
 
