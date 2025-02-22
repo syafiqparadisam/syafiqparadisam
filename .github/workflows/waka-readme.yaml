@@ -22,5 +22,5 @@ jobs:
           GH_TOKEN: ${{secrets.GH_TOKEN}}
           SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_LOC_CHART: "False"
+          SHOW_LOC_CHART: "True"
           LOCALE: "id"
