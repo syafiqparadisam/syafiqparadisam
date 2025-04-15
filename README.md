@@ -59,17 +59,15 @@ func main() {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-1.3%20million%20baris%20kode-blue)
 
 **🐱 Dataku di GitHub** 
 
 > 📦 ? Digunakan di GitHub Storage 
- > 
-> 🏆 31 Kontribusi pada 2025
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
@@ -139,5 +137,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syafiqparadisam/syafiqparadisam/master/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2025 01:49:34 UTC
+ Last Updated on 15/04/2025 01:48:33 UTC
 <!--END_SECTION:waka-->
