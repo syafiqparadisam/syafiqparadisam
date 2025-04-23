@@ -104,21 +104,16 @@ Minggu                   181 commits         ███░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-PHP                      1 hr 11 mins        ███████████████████████░░   93.65 % 
-INI                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 🔥 Editor: 
-VS Code                  1 hr 11 mins        ███████████████████████░░   93.65 % 
-Vim                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 🐱‍💻 Proyek: 
-php                      1 hr 11 mins        ███████████████████████░░   93.65 % 
-Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-hyprland-dotfiles        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 💻 Sistem Operasi: 
-Linux                    1 hr 16 mins        █████████████████████████   100.00 % 
+Tidak ada aktivitas dilacak minggu Ini
 ```
 
 **Kebanyakan menulis dalam bahasa JavaScript** 
@@ -138,5 +133,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syafiqparadisam/syafiqparadisam/master/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2025 01:47:38 UTC
+ Last Updated on 23/04/2025 01:47:38 UTC
 <!--END_SECTION:waka-->
