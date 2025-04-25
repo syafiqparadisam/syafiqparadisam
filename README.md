@@ -7,9 +7,9 @@ Hello There !!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 <h3 align="center"><em>I am DevSecOps Engineer And Tech nerd
 </em></h3>
 
-<img align="left" src="https://static.zerochan.net/Alina.Clover.1024.4345060.webp" width="300"/>
+<img align="left" style="margin-left: 50px" src="https://static.zerochan.net/Alina.Clover.1024.4345060.webp" width="315"/>
 
-<img align="right" src="https://i.pinimg.com/736x/69/82/aa/6982aafd816ea48f48d0639c7797915c.jpg" width=250/>
+<img align="center" style="margin-left: 50px" src="https://i.pinimg.com/736x/69/82/aa/6982aafd816ea48f48d0639c7797915c.jpg" width=250/>
 
 <hr/>
 
