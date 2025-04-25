@@ -7,7 +7,7 @@ Hello There !!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 <h3 align="center"><em>I am DevSecOps Engineer And Tech nerd
 </em></h3>
 
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrX86c71BLIeXnbYRHJYNLl-21VyTR51CQCg&s" width="300" />
+<img align="center" src="https://static.zerochan.net/Alina.Clover.1024.4345060.webp" width="500"/>
 
 <hr/>
 
