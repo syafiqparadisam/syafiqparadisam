@@ -63,13 +63,15 @@ func main() {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-4-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-1.4%20million%20baris%20kode-blue)
 
 **🐱 Dataku di GitHub** 
 
 > 📦 ? Digunakan di GitHub Storage 
+ > 
+> 🏆 85 Kontribusi pada 2025
  > 
 > 💼 Sedang bisa dipekerjakan
  > 
@@ -133,5 +135,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syafiqparadisam/syafiqparadisam/master/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2025 01:52:43 UTC
+ Last Updated on 29/06/2025 02:06:28 UTC
 <!--END_SECTION:waka-->
