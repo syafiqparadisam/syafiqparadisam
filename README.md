@@ -61,7 +61,7 @@ func main() {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
@@ -106,16 +106,17 @@ Minggu                   184 commits         ███░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Other                    0 secs              █████████████████████████   100.00 % 
+Other                    0 secs              █████████████░░░░░░░░░░░░   53.33 % 
+Bash                     0 secs              ████████████░░░░░░░░░░░░░   46.67 % 
 
 🔥 Editor: 
-Vim                      0 secs              █████████████████████████   100.00 % 
+Vim                      1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-Unknown Project          0 secs              █████████████████████████   100.00 % 
+Unknown Project          1 min               █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa JavaScript** 
@@ -135,5 +136,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syafiqparadisam/syafiqparadisam/master/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2025 01:58:12 UTC
+ Last Updated on 10/07/2025 01:58:14 UTC
 <!--END_SECTION:waka-->
