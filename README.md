@@ -20,44 +20,83 @@ Hello There !!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 
 <br/>
 
-```go
-package main
+```rust
 
-type tech struct {
-  frontend []string
-  backend []string
-  devops []string
-  databases []string
-  language []string
+struct Tech {
+  frontend: Vec<String>.
+  backend: Vec<String>,
+  deployment: Vec<String>,
+  databases: Vec<String>,
+  language: Vec<String>
 }
 
-type Aboutme struct {
-  pronouns []string
-  shortname string
-  age int
-  tech
-  currentfocus []string
-  funFact: string
+struct AboutMe {
+  pronouns: Vec<String>,
+  shortname: String,
+  age: i64,
+  tech: Tech,
+  currentfocus: Vec<String>
+  funFact: String
 }
 
-func main() {
+fn main() {
+  let about_me = AboutMe {
+        pronouns: vec![
+            "He".to_string(),
+            "Man".to_string(),
+        ],
+        shortname: "Syafiq".to_string(),
+        age: 17,
+        tech: Tech {
+            frontend: vec![
+                "HTML".to_string(),
+                "CSS".to_string(),
+                "Javascript".to_string(),
+                "ReactJS".to_string(),
+                "VueJS".to_string(),
+                "Flutter".to_string(),
+            ],
+            backend: vec![
+                "NodeJS".to_string(),
+                "ExpressJS".to_string(),
+                "NestJS".to_string(),
+                "Golang".to_string(),
+                "Rust".to_string(),
+                "Laravel".to_string(),
+            ],
+            devops: vec![
+                "Docker".to_string(),
+                "Kubernetes".to_string(),
+                "Nginx".to_string(),
+                "Linux".to_string(),
+                "CI / CD".to_string(),
+                "AWS".to_string()
+            ],
+            databases: vec![
+                "MySQL".to_string(),
+                "MongoDB".to_string(),
+                "Redis".to_string(),
+                "PostgreSQL".to_string(),
+            ],
+            language: vec![
+                "Javascript / Typescript".to_string(),
+                "Golang".to_string(),
+                "Rust".to_string(),
+                "PHP".to_string(),
+                "Dart".to_string(),
+                "Python".to_string(),
+            ],
+        },
+        current_focus: vec![
+            "Fullstack developer".to_string(),
+            "Blue team security".to_string(),
+            "AI engineer".to_string(),
+            "Blockchain developer".to_string()
+        ],
+        fun_fact: "I learn tech quicker".to_string(),
+    };
 
-  aboutme := &Aboutme{
-    pronouns: []string{"He", "Him", "Man", "Dude","Bro"},
-    shortname: "Syafiq",
-    age: 17,
-    tech: &tech{
-      frontend: []string{"HTML","CSS","Javascript","ReactJS","PHP"},
-      backend: []string{"NodeJS", "ExpressJS","NestJS","Golang", "Gofiber", "Actixweb", "PHP", "Laravel", "Flask"},
-      devops: []string{"Docker", "Kubernetes", "Nginx","Prometheus", "Jaeger", "Grafana", "Linux", "CI / CD"},
-      databases: []string{"MySQL", "MongoDB", "Redis", "PostgreSQL"},
-      language: []string{"Javascript / Typescript", "Golang","Rust", "C", "PHP","C++"}
-    },
-    currentFocus: []string{"Backend development", "Security researcher", "Blue team security","DevSecOps engineer"},
-    funFact: "I use artix btw, Actually bsd is more cool than linux, but i can't use it because software issue, I am weaboo but not too much"
-  }
 }
-
 ```
 
 <!--START_SECTION:waka-->
@@ -67,7 +106,7 @@ func main() {
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-1.4%20million%20baris%20kode-blue)
 
-**🐱 Dataku di GitHub** 
+**🐱 Dataku di GitHub**
 
 > 📦 ? Digunakan di GitHub Storage 
  > 
@@ -99,8 +138,7 @@ Sabtu                    241 commits         ████░░░░░░░�
 Minggu                   204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 ```
 
-
-📊 **Minggu ini menghabiskan waktu di** 
+📊 **Minggu ini menghabiskan waktu di**
 
 ```text
 🕑︎ Zona waktu: Asia/Jakarta
@@ -126,7 +164,7 @@ hyprland-dotfiles        0 secs              ░░░░░░░░░░░�
 Linux                    5 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
-**Kebanyakan menulis dalam bahasa JavaScript** 
+**Kebanyakan menulis dalam bahasa JavaScript**
 
 ```text
 HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
@@ -136,12 +174,11 @@ Vue                      1 repo              █░░░░░░░░░░�
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
-
-
 **Lini masa**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/syafiqparadisam/syafiqparadisam/master/assets/bar_graph.png)
 
+Last Updated on 25/04/2025 01:48:40 UTC
 
  Last Updated on 22/08/2025 01:49:07 UTC
 <!--END_SECTION:waka-->
