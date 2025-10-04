@@ -100,6 +100,8 @@ fn main() {
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2035%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-1.5%20million%20baris%20kode-blue)
@@ -133,5 +135,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syafiqparadisam/syafiqparadisam/master/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 01:41:35 UTC
+ Last Updated on 04/10/2025 01:37:48 UTC
 <!--END_SECTION:waka-->
