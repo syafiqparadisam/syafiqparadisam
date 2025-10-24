@@ -100,7 +100,7 @@ fn main() {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
@@ -145,14 +145,14 @@ Minggu                   210 commits         ███░░░░░░░░�
 🕑︎ Zona waktu: Asia/Jakarta
 
 💬 Bahasa: 
-Dart                     10 hrs              █████████████████████████   99.03 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Dart                     7 hrs 58 mins       █████████████████████████   98.90 % 
+SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editor: 
-VS Code                  10 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Linux                    10 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa JavaScript** 
@@ -172,5 +172,5 @@ Visual Basic .NET        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/syafiqparadisam/syafiqparadisam/master/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2025 01:46:44 UTC
+ Last Updated on 24/10/2025 01:42:46 UTC
 <!--END_SECTION:waka-->
